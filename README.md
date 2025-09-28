@@ -14,6 +14,10 @@ This project is minimal, beginner-friendly, and can serve as a base template for
 
 ---
 
+✨ This project is part of my learning journey and a step towards building more advanced web applications
+
+---
+
 ## 📂 Getting Started
 1. Clone the repo:
    ```bash
