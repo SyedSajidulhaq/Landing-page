@@ -14,7 +14,12 @@ This project is minimal, beginner-friendly, and can serve as a base template for
 
 ---
 
-✨ This project is part of my learning journey and a step towards building more advanced web applications
+✨ This project is part of my learning journey and a step towards building more advanced web applications.
+
+---
+
+## 🌐 Live Demo
+Check out the live version here: [Visit Online](https://syedsajidulhaq.github.io/Landing-page/index.html)
 
 ---
 
@@ -22,4 +27,3 @@ This project is minimal, beginner-friendly, and can serve as a base template for
 1. Clone the repo:
    ```bash
    git clone https://github.com/SyedSajidulhaq/Landing-page.git
-   
