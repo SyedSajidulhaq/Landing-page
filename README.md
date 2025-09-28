@@ -21,4 +21,4 @@ This project is minimal, beginner-friendly, and can serve as a base template for
 ## 📂 Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/landing-page.git
+   git clone https://github.com/SyedSajidulhaq/Landing-page.git
